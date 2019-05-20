@@ -1,0 +1,1 @@
+<li data="<?= $item['id'] ?>"><?= $item['name'] == '-' ? 'Все' : $item['name'] ?></li>
